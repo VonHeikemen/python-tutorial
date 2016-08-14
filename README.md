@@ -1,0 +1,1 @@
+Colección de scripts básicos del lenguaje de programación Python para el aprendizaje
