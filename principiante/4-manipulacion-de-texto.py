@@ -19,7 +19,7 @@ print( nombre_completo )
 print( miNombre * 5 )
 
 # Acceder a cada caracter de un String:
-# Para ello usan los corchetes y entre ellos
+# Para ello se usan los corchetes y entre ellos
 # la posicion del caracter en el string
 
 # Nota: las posiciones se cuentan a partir
